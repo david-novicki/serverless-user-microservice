@@ -1,0 +1,5 @@
+{
+    "pathParameters": {
+        "email": "test@gmail.com"
+    }
+}
